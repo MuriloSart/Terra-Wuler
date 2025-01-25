@@ -39,7 +39,7 @@ public class SceneController : Singleton<SceneController>
 
     }
 
-    public float PegarProgresso()
+    public float GetProgress()
     {
         return Progress;
     }
